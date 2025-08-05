@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shireen Sulthana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://lottie.host/8a5c2801-0c24-4fbe-8dd9-c5b3a75c21f1/vKx1wtZe5l.json">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shireen2149&label=Profile%20views&color=0e75b6&style=flat" alt="shireen2149" /> </p>
 
